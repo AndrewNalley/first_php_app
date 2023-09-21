@@ -46,11 +46,11 @@ https://www.apachefriends.org/
 
 ## License
 
-[MIT license](https://opensource.org/licenses/MIT)
+![MIT license](https://opensource.org/licenses/MIT)
 
 ## Badges
 
-[Static Badge](https://img.shields.io/badge/built_with-laravel-orange?logo=laravel)
+![Static Badge](https://img.shields.io/badge/built_with-laravel-orange?logo=laravel)
 
 
 ## Features
