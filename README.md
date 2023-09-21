@@ -50,8 +50,7 @@ https://www.apachefriends.org/
 
 ## Badges
 
-![Static Badge](https://img.shields.io/badge/built_with-laravel-orange?logo=laravel)
-
+![Static Badge](https://img.shields.io/badge/built_with-laravel-orange?logo=laravel&labelColor=white)
 
 ## Features
 
